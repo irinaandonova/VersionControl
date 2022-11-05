@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\programming\\internship\\version\\Melissa\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj": {}
+    "E:\\programming\\internship\\version\\John\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj": {}
   },
   "projects": {
-    "E:\\programming\\internship\\version\\Melissa\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj": {
+    "E:\\programming\\internship\\version\\John\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\programming\\internship\\version\\Melissa\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj",
+        "projectUniqueName": "E:\\programming\\internship\\version\\John\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj",
         "projectName": "VersionControlDemo",
-        "projectPath": "E:\\programming\\internship\\version\\Melissa\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj",
+        "projectPath": "E:\\programming\\internship\\version\\John\\VersionControl\\VersionControlDemo\\VersionControlDemo\\VersionControlDemo.csproj",
         "packagesPath": "C:\\Users\\Irina\\.nuget\\packages\\",
-        "outputPath": "E:\\programming\\internship\\version\\Melissa\\VersionControl\\VersionControlDemo\\VersionControlDemo\\obj\\",
+        "outputPath": "E:\\programming\\internship\\version\\John\\VersionControl\\VersionControlDemo\\VersionControlDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

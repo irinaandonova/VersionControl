@@ -7,6 +7,7 @@ namespace VersionControlDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Melissa!");
+            Console.WriteLine("Hello, John!");
         }
     }
 }

@@ -8,6 +8,9 @@ namespace VersionControlDemo
         {
             Console.WriteLine("Hello, Melissa!");
             Console.WriteLine("Hello, John!");
+
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}");
         }
     }
 }
